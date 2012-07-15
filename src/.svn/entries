@@ -1,0 +1,37 @@
+10
+
+dir
+35
+http://opendpi.googlecode.com/svn/trunk/src
+http://opendpi.googlecode.com/svn
+
+
+
+2011-06-09T14:33:49.488946Z
+34
+martin.weiser@ipoque.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+87bad7a0-979b-11de-aa05-a1f2ad4bc971
+
+include
+dir
+
+lib
+dir
+
+examples
+dir
+

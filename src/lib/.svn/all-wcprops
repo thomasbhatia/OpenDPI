@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/34/trunk/src/lib
+END
+ipq_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/31/trunk/src/lib/ipq_utils.h
+END
+ipq_protocol_history.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/src/lib/ipq_protocol_history.h
+END
+ipq_protocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/34/trunk/src/lib/ipq_protocols.h
+END
+ipq_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/34/trunk/src/lib/ipq_main.h
+END
+ipq_structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/34/trunk/src/lib/ipq_structs.h
+END
+linux_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/34/trunk/src/lib/linux_compat.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/31/trunk/src/lib/Makefile.am
+END
+ipq_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/34/trunk/src/lib/ipq_main.c
+END

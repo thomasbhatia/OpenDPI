@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/31/trunk/src/lib/protocols
+END
+armagetron.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/src/lib/protocols/armagetron.c
+END
+mssql.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/mssql.c
+END
+usenet.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/usenet.c
+END
+pcanywhere.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/src/lib/protocols/pcanywhere.c
+END
+aimini.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/aimini.c
+END
+icecast.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/src/lib/protocols/icecast.c
+END
+xdmcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/xdmcp.c
+END
+filetopia.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/filetopia.c
+END
+tftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/tftp.c
+END
+irc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/irc.c
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/dhcp.c
+END
+http.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/http.c
+END
+syslog.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/syslog.c
+END
+gadu_gadu.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/gadu_gadu.c
+END
+manolito.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/src/lib/protocols/manolito.c
+END
+pptp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/pptp.c
+END
+dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/dns.c
+END
+rdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/rdp.c
+END
+mail_smtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/mail_smtp.c
+END
+vnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/vnc.c
+END
+nfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/nfs.c
+END
+ipp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/ipp.c
+END
+mail_imap.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/mail_imap.c
+END
+ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/ftp.c
+END
+feidian.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/src/lib/protocols/feidian.c
+END
+mail_pop.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/src/lib/protocols/mail_pop.c
+END
+ntp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/ntp.c
+END
+mdns.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/mdns.c
+END
+rtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/rtp.c
+END
+quake.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/quake.c
+END
+http_activesync.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/31/trunk/src/lib/protocols/http_activesync.c
+END
+bgp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/bgp.c
+END
+thunder.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/src/lib/protocols/thunder.c
+END
+stealthnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/src/lib/protocols/stealthnet.c
+END
+fiesta.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/fiesta.c
+END
+battlefield.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31/trunk/src/lib/protocols/battlefield.c
+END
+yahoo.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/yahoo.c
+END
+xbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/xbox.c
+END
+applejuice.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/src/lib/protocols/applejuice.c
+END
+mgcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/mgcp.c
+END
+meebo.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/meebo.c
+END
+dhcpv6.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/dhcpv6.c
+END
+ppstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/src/lib/protocols/ppstream.c
+END
+bittorrent.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/src/lib/protocols/bittorrent.c
+END
+mms.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/mms.c
+END
+warcraft3.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/warcraft3.c
+END
+msn.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/msn.c
+END
+ssh.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/ssh.c
+END
+crossfire.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/crossfire.c
+END
+ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/ssl.c
+END
+pando.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/pando.c
+END
+winmx.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/winmx.c
+END
+netbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/src/lib/protocols/netbios.c
+END
+world_of_warcraft.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/31/trunk/src/lib/protocols/world_of_warcraft.c
+END
+mysql.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/mysql.c
+END
+afp.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/afp.c
+END
+i23v5.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/i23v5.c
+END
+kontiki.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/src/lib/protocols/kontiki.c
+END
+steam.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/steam.c
+END
+gnutella.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/src/lib/protocols/gnutella.c
+END
+veohtv.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/veohtv.c
+END
+kerberos.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/src/lib/protocols/kerberos.c
+END
+shoutcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/shoutcast.c
+END
+snmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/snmp.c
+END
+popo.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/popo.c
+END
+tvants.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/tvants.c
+END
+ldap.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/ldap.c
+END
+zattoo.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/zattoo.c
+END
+qq.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/src/lib/protocols/qq.c
+END
+fasttrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/fasttrack.c
+END
+jabber.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/jabber.c
+END
+world_of_kung_fu.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/31/trunk/src/lib/protocols/world_of_kung_fu.c
+END
+stun.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/stun.c
+END
+tds.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/tds.c
+END
+openft.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/openft.c
+END
+edonkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/src/lib/protocols/edonkey.c
+END
+pplive.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/pplive.c
+END
+maplestory.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/src/lib/protocols/maplestory.c
+END
+halflife2_and_mods.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31/trunk/src/lib/protocols/halflife2_and_mods.c
+END
+guildwars.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/guildwars.c
+END
+imesh.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/imesh.c
+END
+postgres.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/src/lib/protocols/postgres.c
+END
+oscar.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/oscar.c
+END
+non_tcp_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/31/trunk/src/lib/protocols/non_tcp_udp.c
+END
+ssdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/ssdp.c
+END
+secondlife.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/31/trunk/src/lib/protocols/secondlife.c
+END
+sopcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/31/trunk/src/lib/protocols/sopcast.c
+END
+directdownloadlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/31/trunk/src/lib/protocols/directdownloadlink.c
+END
+dofus.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/dofus.c
+END
+iax.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/iax.c
+END
+smb.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/smb.c
+END
+florensia.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/florensia.c
+END
+socrates.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/src/lib/protocols/socrates.c
+END
+directconnect.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/31/trunk/src/lib/protocols/directconnect.c
+END
+rtsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/31/trunk/src/lib/protocols/rtsp.c
+END
+soulseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/src/lib/protocols/soulseek.c
+END
+tvuplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/31/trunk/src/lib/protocols/tvuplayer.c
+END
+sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/31/trunk/src/lib/protocols/sip.c
+END
+telnet.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/31/trunk/src/lib/protocols/telnet.c
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/31/trunk/src/lib/protocols/flash.c
+END
